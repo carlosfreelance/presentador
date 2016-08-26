@@ -39,7 +39,7 @@
             "density": 4.0
         }
     ],
-    "start_url": "/index.html",
+    "start_url": "/presentador/index.html",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#3E4EB8",
